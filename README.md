@@ -115,45 +115,7 @@
 ![https://github.com/GayaKim](https://github.com/GayaKim/GayaKim/blob/main/github-metrics.svg)
 
 - [문송이](https://github.com/songi061) - 데이터 분석가 지망  
-![https://github.com/songi061](https://github.com/songi061/songi061/blob/main/github-metrics.svg)
-
-- [이가은](https://github.com/gaeun0915) - 데이터 분석가 지망  
-![https://github.com/gaeun0915](https://github.com/gaeun0915/gaeun0915/blob/main/github-metrics.svg)
-
-- [정민석](https://github.com/200000001) - 백엔드 개발자 지망  
-![https://github.com/200000001](https://github.com/200000001/200000001/blob/main/github-metrics.svg)
-
-- [박주희]() -  
-!
-
-- [윤주현]() -
-!
-
-- [이유림]() -
-!
-
-- [임찬섭]() -
-!
-
-- [김가민]() -
-!
-
-- [이지원]() - 
-!
-
-- [진수진]() - 
-!
-
-- [홍지우]() -
-!
-
-- [김지현]() -
-!
-
-- [최원빈]() -
-!
-
-- [변지영]() -
+![https://github.com/songi061](https://github.com/songi061/망
 !
 
 - [김지현]() -
